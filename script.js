@@ -10,7 +10,12 @@ var photoList = [
     "kedi/8.jpg",
     "kedi/9.jpg",
     "kedi/10.jpg",
-    "kedi/11.jpg",
+    "kedi/12.jpg",
+    "kedi/13.jpg",
+    "kedi/14.jpg",
+    "kedi/15.jpg",
+    "kedi/16.jpg",
+    "kedi/17.jpg",
     // Diğer fotoğraflar
 ];
 
